@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Kazimierz Bzikot"
+title                    : "Portfolio"
 title_separator          : "-"
 name                     : &name "Kazimierz Bzikot"
 description              : &description "MSci Physics at University College London"
