@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kazimierz Bzikot"
-  avatar           : "profile.png"
+  avatar           : <img src='profile.jpeg' onmouseover="this.src='wowcat.gif';" onmouseout="this.src='profile.jpeg';" />
   bio              : "2nd Year MSci Physics @ University College London (UCL)"
   location         : 
   employer         :
