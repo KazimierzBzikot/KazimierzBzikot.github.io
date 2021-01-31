@@ -26,7 +26,11 @@ Education
 
 Work experience
 ======
-* 
+
+* [Chesterfield Insurance Brokers Ltd](https://www.chesterfieldgroup.co.uk/)
+  * Monday 9th April 2018 - Friday 13th April 2018
+  * Shadowed Accountants, Underwriters, Brokers and the Finanace Director in meetings and everday work.
+  * Proofread the company annual report uncovering and correcting typos, misnomers, and erroneous statistics before publication.
   
 Skills
 ======
@@ -41,9 +45,12 @@ Skills
   * Japanese           - Beginner
 
 * Communication
-  * Excellent command of the English Language with experience of writing & proof-reading essays, performing presentations & pitches, and professional type-setting.
+  * Excellent command of the English Language with experience of writing & proofreading essays, performing presentations & pitches, and professional type-setting.
   
 * Problem Solving
+
+* Photo Editing
+  * Experienced with [Photopea](https://www.photopea.com/)
 
 * Leadership & Project Management
 
