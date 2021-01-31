@@ -11,7 +11,6 @@
     	<img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
       <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" onmouseover="this.src='/images/wowcat.gif';" onmouseout="this.src='{{ author.avatar | prepend: "/images/" | prepend: base_path }}';" class="author__avatar" alt="{{ author.name }}"/>
-    	<img src='profile.png' onmouseover="this.src='wowcat.gif';" onmouseout="this.src='profile.png';" />
     {% endif %}
   </div>
 
